@@ -1,0 +1,45 @@
+{
+  "pages":[
+    "pages/info/info",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/contact/contact",
+    "pages/skill/skill",
+    "pages/job/job",
+    "pages/project/project"
+  ],
+  "window":{
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "沈磊 - PM / FE - 简历",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#D0E9FF",
+    "selectedColor": "#1DB0B8",
+    "backgroundColor": "#000000",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/info/info",
+        "text": "我的"
+      },
+      {
+        "pagePath": "pages/skill/skill",
+        "text": "技能"
+      },
+      {
+        "pagePath": "pages/job/job",
+        "text": "工作"
+      },
+      {
+        "pagePath": "pages/project/project",
+        "text": "项目"
+      },
+      {
+        "pagePath": "pages/contact/contact",
+        "text": "联系"
+      }
+    ]
+  }
+}

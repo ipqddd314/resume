@@ -1,0 +1,10 @@
+<!--pages/info/info.wxml-->
+<view class='header'>
+  <text class='header-title'>My Name : 沈 磊</text>
+  <text class='header-desc'>算是一个技术宅</text>
+</view>
+
+<view class='info'>
+  <text class='header-title'>My Name : 沈 磊</text>
+  <text class='header-desc'>算是一个技术宅</text>
+</view>

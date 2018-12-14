@@ -1,0 +1,5 @@
+<!--pages/skill/skill.wxml-->
+<view class='header'>
+  <text class='header-title'>相关技能</text>
+  <text class='header-desc'>好像点歪了技能树！</text>
+</view>

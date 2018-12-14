@@ -1,0 +1,5 @@
+<!--pages/job/job.wxml-->
+<view class='header'>
+  <text class='header-title'>联系方式</text>
+  <text class='header-desc'>一个人的世界，你不懂！</text>
+</view>
